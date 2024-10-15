@@ -1,0 +1,23 @@
+4. Existe una gran disparidad entre los clusters, especialmente entre el 0 y el 1, lo que sugiere una significativa desigualdad global.
+
+
+Países con esperanza de vida baja que no reciben ayuda: Lesetho (46.5) y Central African Repblic (47.5).
+
+Solo con PCA se puede 
+
+
+* El dataset refleja una amplia desigualdad entre países. 
+
+* A futuro: podría seguir aplicando algoritmos como Spectral Clustering y Gaussian Mixture Models... 
+
+* Una vez definido el espacio PCA. 
+
+
+A model's performance is the reflection of the quality of the data feed to it. 
+
+EDA section of this dataset provides a list of insights.
+
+Effect of normalization and standardization is massive on model performance.
+
+Feature engineering is pivotal! For feature combination & PCA data, complexity of methods to achieve it is clearly visible. These processes highlight the various options open and thus requires us to be sensible in choosing the methods depending on the data and the problem statement.
+K-Means Clustering, Hierarchical Clustering and DBSCAN Clustering are fundamentally different. They are based on different principles, thus displaying the difference in the model performances. Overall the model performances are not as great.
