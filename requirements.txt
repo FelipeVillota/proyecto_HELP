@@ -8,3 +8,4 @@ ydata_profiling
 adjustText
 plotly.subplots
 kneed
+warnings
